@@ -1,8 +1,8 @@
 {
-  "name": "vikrants-portfolio-website",
+  "name": "bodhankar-associates",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 8089",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc"
