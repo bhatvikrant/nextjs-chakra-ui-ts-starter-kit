@@ -1,5 +1,5 @@
 {
-  "name": "bodhankar-associates",
+  "name": "nextjs-chakra-ui-ts-template",
   "version": "1.0.0",
   "scripts": {
     "dev": "next -p 8089",
